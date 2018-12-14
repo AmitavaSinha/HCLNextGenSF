@@ -127,7 +127,6 @@ C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Cor
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.dll
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
@@ -242,19 +241,6 @@ C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Http.Ex
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Localization.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
-C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Razor.xml
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
 C:\COE\SourceCode\OrderEntrySF\Order.Test\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
